@@ -1,3 +1,12 @@
 {
-  
+  "BASIC_CARDS": "",
+
+  "ARCHIVIST-STRIKE_ARCHIVIST.description": "#Deal !D! damage.",
+  "ARCHIVIST-STRIKE_ARCHIVIST.title": "Strike",
+  "ARCHIVIST-DEFEND_ARCHIVIST.description": "#Gain !B! *Block.",
+  "ARCHIVIST-DEFEND_ARCHIVIST.title": "Defend",
+  "ARCHIVIST-QUILL_SCRIBE.description": "#Deal !D! damage. Apply {FeatherPower} *Feather.",
+  "ARCHIVIST-QUILL_SCRIBE.title": "Quill Scribe",
+  "ARCHIVIST-PREEN.description": "#Remove all *Feather.\nGain !B! *Block for each *Feather removed.",
+  "ARCHIVIST-PREEN.title": "Preen"
 }
