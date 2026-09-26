@@ -1,3 +1,16 @@
 {
-  
+  "ARCHIVIST-ARCHIVIST.aromaPrinciple": "Lore",
+  "ARCHIVIST-ARCHIVIST.banter.alive.endTurnPing": "Co-op hurry up end turn ping message",
+  "ARCHIVIST-ARCHIVIST.banter.dead.endTurnPing": "...",
+  "ARCHIVIST-ARCHIVIST.cardsModifierDescription": "__ cards will now appear in rewards and shops.",
+  "ARCHIVIST-ARCHIVIST.cardsModifierTitle": "__ Cards",
+  "ARCHIVIST-ARCHIVIST.description": "Character Selection\nScreen Description",
+  "ARCHIVIST-ARCHIVIST.eventDeathPrevention": "Co-op survival line",
+  "ARCHIVIST-ARCHIVIST.goldMonologue": "Line spoken when obtaining a large amount of gold",
+  "ARCHIVIST-ARCHIVIST.possessiveAdjective": "his/her/its",
+  "ARCHIVIST-ARCHIVIST.pronounObject": "him/her/it",
+  "ARCHIVIST-ARCHIVIST.pronounPossessive": "his/hers/its",
+  "ARCHIVIST-ARCHIVIST.pronounSubject": "he/she/it",
+  "ARCHIVIST-ARCHIVIST.title": "The Archivist",
+  "ARCHIVIST-ARCHIVIST.titleObject": "The Archivist"
 }
