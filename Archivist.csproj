@@ -62,8 +62,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Folder Include="ArchivistCode\Cards\Basic\" />
-        <Folder Include="ArchivistCode\Cards\Common\" />
         <Folder Include="ArchivistCode\Cards\Rare\" />
         <Folder Include="ArchivistCode\Cards\Uncommon\" />
         <Folder Include="Archivist\images\card_portraits\big\"/>
