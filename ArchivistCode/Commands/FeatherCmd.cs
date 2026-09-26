@@ -71,7 +71,6 @@ public static class FeatherCmd
         return await RemoveFeather(combatState, choiceContext, target, feathers, fakeRemoval);
     }
 
-    // TODO: Redundant?
     public static bool CanRemoveFeather(Creature target, int amount)
     {
         return target.GetPowerAmount<FeatherPower>() >= amount;
