@@ -8,5 +8,9 @@
   "ARCHIVIST-QUILL_SCRIBE.description": "#Deal !D! damage. Apply {FeatherPower} *Feather.",
   "ARCHIVIST-QUILL_SCRIBE.title": "Quill Scribe",
   "ARCHIVIST-PREEN.description": "#Remove all *Feather.\nGain !B! *Block for each *Feather removed.",
-  "ARCHIVIST-PREEN.title": "Preen"
+  "ARCHIVIST-PREEN.title": "Preen",
+
+  "COMMON_ATTACKS": "",
+  "ARCHIVIST-INKWELL_DART.description": "#Deal !D! damage. Remove {FeatherPower} *Feather from the enemy to apply {WeakPower} *Weak.",
+  "ARCHIVIST-INKWELL_DART.title": "Inkwell Dart"
 }
